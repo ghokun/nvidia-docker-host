@@ -321,3 +321,9 @@ Description : Kernel 5.9.16-200.fc33.x86_64
               Docker is installed with version 20.10.1
               nvidia-docker2 is installed
 ```
+## Closing remarks
+- If you have come this far, it means everything worked perfectly. If you have any problems while installing, please restore from a previous snapshot. My snapshots are looking like below:
+
+![Snapshots](images/snapshots.png)
+
+- I will be using this virtual machine to run and develop OpenCV and PyTorch with CUDA in [code-server](https://github.com/cdr/code-server). Check out my github [organization](https://github.com/works-on-my-machine) to see details.
